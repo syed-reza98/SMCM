@@ -99,7 +99,7 @@ services:
       - redis
     networks:
       - smcm_network
-    command: celery -A smcm beat --loglevel=info
+    command: celery -A <correct_app_name> beat --loglevel=info
 
   # React Frontend
   frontend:
