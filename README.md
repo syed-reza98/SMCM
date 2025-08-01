@@ -8,8 +8,6 @@
 
 An open source web application designed to help online businesses and marketers plan, schedule, track, and analyze multi-platform social media marketing campaigns with ease and efficiency.
 
-![SMCM Dashboard Preview](docs/images/dashboard-preview.png)
-
 ## 🌟 Key Features
 
 ### 📅 Multi-Platform Scheduling
