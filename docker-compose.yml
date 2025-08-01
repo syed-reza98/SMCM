@@ -77,7 +77,7 @@ services:
       - redis
     networks:
       - smcm_network
-    command: celery -A smcm worker --loglevel=info
+    command: celery -A myproject worker --loglevel=info
 
   # Celery Beat (Scheduler)
   celery-beat:
